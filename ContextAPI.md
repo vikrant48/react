@@ -10,7 +10,7 @@ The **Context API** in React is a built-in state management solution that allows
 3. **Consume the Context** – Use either `useContext()` hook or the `Context.Consumer` component to access the context value.
 
 ---
-
+![chart](./img/contextAPI.png)
 [chart Link](https://excalidraw.com/#json=UXJfeHpfuzg2cBn5nGICR,N3GgfryKmyggUM0H0a278g)
 
 ### **Example: Using Context API**
